@@ -9,6 +9,7 @@ int SUM(int*, int);
 
 int main()
 {
+	cout << "demo";
 	int SIZE; //define size
 	int sum;
 	//let 
